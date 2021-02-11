@@ -1,0 +1,48 @@
+﻿  Login.cpp
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\conexiones.h(172): warning C4101: 'myreader': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(789): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(902): warning C4101: 'artisCon': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(966): warning C4101: 'selec': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(966): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1068): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1147): warning C4101: 'selec': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1147): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1062): warning C4101: 'value': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1062): warning C4101: 'longitud': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1097): warning C4101: 'S': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1154): warning C4101: 'longitud': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1353): warning C4101: 'value': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1353): warning C4101: 'longitud': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1381): warning C4101: 'S': variable local sin referencia
+  MyForm.cpp
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\conexiones.h(172): warning C4101: 'myreader': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(789): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(902): warning C4101: 'artisCon': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(966): warning C4101: 'selec': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(966): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1068): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1147): warning C4101: 'selec': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1147): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1062): warning C4101: 'value': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1062): warning C4101: 'longitud': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1097): warning C4101: 'S': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\compras.h(1154): warning C4101: 'longitud': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1353): warning C4101: 'value': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1353): warning C4101: 'longitud': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1381): warning C4101: 'S': variable local sin referencia
+  form1.cpp
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\conexiones.h(172): warning C4101: 'myreader': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(789): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(902): warning C4101: 'artisCon': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(966): warning C4101: 'selec': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(966): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1068): warning C4101: 'tipo': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1147): warning C4101: 'selec': variable local sin referencia
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\form1.h(1147): warning C4101: 'tipo': variable local sin referencia
+  Generando código...
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1310): warning C4700: se utilizó la variable local 'longitud' sin inicializar
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\about.h(885): warning C4700: se utilizó la variable local 'nuevoArbol' sin inicializar
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\myform.h(1310): warning C4700: se utilizó la variable local 'longitud' sin inicializar
+c:\users\jonatan\desktop\windowsform\projectpreueba\projectpreueba\about.h(885): warning C4700: se utilizó la variable local 'nuevoArbol' sin inicializar
+  conexion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Projectpreueba.vcxproj -> C:\Users\JONATAN\Desktop\windowsform\Projectpreueba\x64\Debug\Project.exe

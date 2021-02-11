@@ -1,0 +1,110 @@
+  Projectpreueba.About.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.Buscar.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.Compras.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.form1.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.Forms2.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.Login.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Projectpreueba.showForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Bunifu_UI_v1.5.3, Version=1.5.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly Guna.UI2, Version=2.0.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b: 
+	hash=None, flags=None
+Assembly Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Projectpreueba.About: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32* ValoresCopia : Public
+    Int32 BanderaPos : Public
+    Int32 ContadorValoresAuxArbol : Public
+    System.Drawing.Bitmap memoryImage : Public
+    System.Drawing.Printing.PrintDocument PrtDoc : Public
+    Int32 cont : Public
+    Int32 contArrD : Public
+    Int32 Apertura : Public
+    Int32 cantidadDeDatos : Public
+    Int32 ContadorDeClicks : Public
+    System.ValueType[] PosicionesPantalla : Public
+    System.ValueType[] PosicionesPantallaPilas : Public
+    System.ValueType[] PosicionesPantallaBasurero : Public
+  Methods:
+    DibujarFlechas(Graphics* IsImplicitlyDereferenced, ValueType Point IsBoxed, ValueType Point IsBoxed, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    DibujarFlechaFinal(Graphics* IsImplicitlyDereferenced, ValueType Point IsBoxed, ValueType Point IsBoxed, Boolean(HasFieldMarshal), Int32): PrivateScope, Public, HideBySig
+    GraficarNodo(Graphics* IsImplicitlyDereferenced, Int32, Int32): PrivateScope, Public, HideBySig
+    Refresco(): PrivateScope, Public, HideBySig
+    VaciarArreglos(): PrivateScope, Public, HideBySig
+    LabelNULL(String, Int32): PrivateScope, Public, HideBySig
+    DibujarListaDoble(Graphics* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    DibujarHojas(Graphics* IsImplicitlyDereferenced, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    insertarNodoNuevo(Graphics* IsImplicitlyDereferenced, NodeArbol*, Int32, Int32, Int32, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32): PrivateScope, Public, HideBySig
+    CapturarPantalla(): PrivateScope, Public, HideBySig
+    PrtDoc_PrintPage(Object, PrintPageEventArgs): PrivateScope, Public, HideBySig
+Class Projectpreueba.Buscar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Projectpreueba.Compras: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 BanderaPos : Public
+    System.Drawing.Bitmap memoryImage : Public
+    System.Drawing.Printing.PrintDocument PrtDoc : Public
+    Int32 cont : Public
+    Int32 contArrD : Public
+    Int32 Apertura : Public
+    Int32 cantidadDeDatos : Public
+    Int32 ContadorDeClicks : Public
+    System.ValueType[] PosicionesPantalla : Public
+    System.ValueType[] PosicionesPantallaPilas : Public
+    System.ValueType[] PosicionesPantallaBasurero : Public
+  Methods:
+    Refresco(): PrivateScope, Public, HideBySig
+    VaciarArreglos(): PrivateScope, Public, HideBySig
+    DibujarFlechas(Graphics* IsImplicitlyDereferenced, ValueType Point IsBoxed, ValueType Point IsBoxed, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    DibujarFlechaFinal(Graphics* IsImplicitlyDereferenced, ValueType Point IsBoxed, ValueType Point IsBoxed, Boolean(HasFieldMarshal), Int32): PrivateScope, Public, HideBySig
+    GraficarNodo(Graphics* IsImplicitlyDereferenced, Int32, Int32): PrivateScope, Public, HideBySig
+    LabelNULL(String, Int32): PrivateScope, Public, HideBySig
+    DibujarListaDoble(Graphics* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    CapturarPantalla(): PrivateScope, Public, HideBySig
+    PrtDoc_PrintPage(Object, PrintPageEventArgs): PrivateScope, Public, HideBySig
+Class Projectpreueba.Forms2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Projectpreueba.showForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Projectpreueba.form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Projectpreueba.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    close(): PrivateScope, Public, HideBySig
+Class Projectpreueba.Login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Projectpreueba.Settings: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
